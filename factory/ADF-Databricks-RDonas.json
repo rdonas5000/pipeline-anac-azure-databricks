@@ -1,0 +1,9 @@
+{
+	"name": "ADF-Databricks-RDonas",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4ae4d4b3-4ce5-4fab-b2a4-f135846fe5ce",
+		"tenantId": "38938b13-2911-4c09-b174-3621faf67588"
+	}
+}
