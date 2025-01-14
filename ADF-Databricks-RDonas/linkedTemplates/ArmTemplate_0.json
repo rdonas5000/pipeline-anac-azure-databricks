@@ -123,8 +123,16 @@
 					"recurrence": {
 						"frequency": "Day",
 						"interval": 1,
-						"startTime": "2025-01-14T13:57:00",
-						"timeZone": "E. South America Standard Time"
+						"startTime": "2025-01-14T11:00:00",
+						"timeZone": "E. South America Standard Time",
+						"schedule": {
+							"minutes": [
+								0
+							],
+							"hours": [
+								11
+							]
+						}
 					}
 				}
 			},
